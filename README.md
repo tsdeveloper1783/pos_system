@@ -1,3 +1,4 @@
+
 # pos-system-php
 A role-based POS management system developed using core PHP and MySQL, featuring secure authentication, admin management, and database-driven operations for efficient business workflow handling.
 # POS System Setup
@@ -22,3 +23,7 @@ A role-based POS management system developed using core PHP and MySQL, featuring
 - HTML
 - CSS
 - JavaScript
+
+# pos_system
+A PHP-based Point of Sale (POS) System designed to streamline sales transactions, inventory management, and business operations through an intuitive interface.
+
